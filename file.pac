@@ -1,0 +1,1 @@
+function FindProxyForURL(url, host) { return "SOCKS5 localhost:8585; SOCKS localhost:8585"; }
